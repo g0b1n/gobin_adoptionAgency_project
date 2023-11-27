@@ -1,0 +1,26 @@
+#pet_img {
+    width: 190px;
+    height: auto;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+
+.pet_name {
+    color: #1f1f1f;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.pet_bio p {
+    margin-left: 10px;
+}
+
+#avilable_btn {
+    margin-left: 10px;
+}
+
+.delete_edi_btn {
+    margin-left: 10px;
+    margin-top: 10px;
+}
